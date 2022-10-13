@@ -1,20 +1,7 @@
-# Aplikasi Mobile|Kalog Prensensi|v.1.0.5+8
+# Company profile
 [![F|](https://i.postimg.cc/t4nYyNgH/powered-by-br0farhan.png)](https://www.linkedin.com/in/br0farhan/)
 
-Aplikasi mobile presensi ini diperuntukan untuk pegawai KAI LOGISTIK untuk melakukan absensi menggunakan handphone Android / IOS.
 
-## Fitur
-
-- Login
-- Password
-- Camera
-- Absensi Masuk & Absensi Pulang
-- Fake Gps
-- Riwayat Absensi
-- Fake GPS
-
-Aplikasi ini merupakan pengembangan dari Tim IT Development KAI LOGISTIK.
-Email [kai.hansyah@gmail.com]
 
 ## Akun Saya
 
