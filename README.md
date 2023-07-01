@@ -1,5 +1,5 @@
 # Company profile
-[![F|](https://i.postimg.cc/t4nYyNgH/powered-by-br0farhan.png)](https://www.linkedin.com/in/br0farhan/)
+[![F|](https://i.postimg.cc/6qFPD0bv/logo.png)](https://www.linkedin.com/in/br0farhan/)
 
 
 
